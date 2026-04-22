@@ -26,6 +26,7 @@
 *.mdb
 *.opendb
 *.VC.db
+*.slnx
 
 # Unity auto-generated / local
 sysinfo.txt
@@ -37,3 +38,4 @@ sysinfo.txt
 Thumbs.db
 desktop.ini
 
+s
