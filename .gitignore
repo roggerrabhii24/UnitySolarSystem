@@ -27,6 +27,7 @@
 *.opendb
 *.VC.db
 *.slnx
+.vscode/
 
 # Unity auto-generated / local
 sysinfo.txt
