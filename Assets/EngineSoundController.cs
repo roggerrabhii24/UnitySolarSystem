@@ -4,8 +4,8 @@ public class EngineSoundController : MonoBehaviour
 {
     public AudioSource engineSound;
 
-    public float minPitch = 0.8f;
-    public float maxPitch = 1.6f;
+    public float minPitch = 1.0f;
+    public float maxPitch = 2.0f;
     public float maxVolume = 0.8f;
 
     void Start()
