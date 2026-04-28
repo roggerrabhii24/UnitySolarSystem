@@ -2862,9 +2862,6 @@ MonoBehaviour:
     - m_Text: PLANET ROTATION
       m_Image: {fileID: 0}
       m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
-    - m_Text: No Rotation
-      m_Image: {fileID: 0}
-      m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
     - m_Text: All Planets
       m_Image: {fileID: 0}
       m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
@@ -4750,7 +4747,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -312, y: -329}
+  m_AnchoredPosition: {x: -310, y: -329}
   m_SizeDelta: {x: 250, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1216401559
@@ -4806,16 +4803,16 @@ MonoBehaviour:
     m_Options:
     - m_Text: SOLAR SYSTEM
       m_Image: {fileID: 0}
-      m_Color: {r: 1, g: 1, b: 1, a: 1}
+      m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
     - m_Text: EARTH
       m_Image: {fileID: 0}
-      m_Color: {r: 1, g: 1, b: 1, a: 1}
+      m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
     - m_Text: MOON
       m_Image: {fileID: 0}
-      m_Color: {r: 1, g: 1, b: 1, a: 1}
+      m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
     - m_Text: MARS
       m_Image: {fileID: 0}
-      m_Color: {r: 1, g: 1, b: 1, a: 1}
+      m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
   m_OnValueChanged:
     m_PersistentCalls:
       m_Calls:
@@ -4845,7 +4842,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5019608, g: 0.4862745, b: 0.4862745, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -5339,7 +5336,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -7.5, y: -0.5}
+  m_AnchoredPosition: {x: -9, y: -0.5}
   m_SizeDelta: {x: -35, y: -13}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1327948870
@@ -6099,7 +6096,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4693579709242440, guid: f9a741bb8762344c6a2a9cb4217ef728, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 3.5
+      value: 2.35
       objectReference: {fileID: 0}
     - target: {fileID: 4693579709242440, guid: f9a741bb8762344c6a2a9cb4217ef728, type: 3}
       propertyPath: m_LocalPosition.y
