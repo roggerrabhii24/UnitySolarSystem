@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e154939222d094aa893a7bd16857b465
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 132614
+  packageName: Lunar Landscape 3D
+  packageVersion: 1.1
+  assetPath: Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D_Profiles/Post-Processing
+    Volume Profile.asset
+  uploadId: 337475

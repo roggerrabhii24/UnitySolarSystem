@@ -12,8 +12,11 @@ EditorBuildSettings:
     path: Assets/Scenes/EarthExperience.unity
     guid: 0233b9035463e42b68b13538d290bd6c
   - enabled: 1
-    path: Assets/Mars Landscape 3D/Mars Landscape 3D Overview.unity
+    path: Assets/Scenes/Mars Landscape 3D Overview.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MoonLunarLand.unity
+    guid: d009093ea10c9431891e53c3db37088d
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
